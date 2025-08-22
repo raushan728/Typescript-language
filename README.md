@@ -265,6 +265,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [TypeScript Official Documentation](https://www.typescriptlang.org/docs/)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [TypeScript Playground](https://www.typescriptlang.org/play)
-- [Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped) - Type definitions for JavaScript libraries
 
 Happy Learning!
